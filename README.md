@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full-stack javascript path on TOP
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me farhantamzid@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: sir/lord
 
 <!---
 farhantamzid/farhantamzid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
